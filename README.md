@@ -7,7 +7,7 @@
 
 ![Fowai GitHub stats](https://github-readme-stats.vercel.app/api?username=Foiwa&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foiwa)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Meus Conhecimentos
 
